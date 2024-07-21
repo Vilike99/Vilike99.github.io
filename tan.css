@@ -33,8 +33,16 @@ a:hover{
 }
 
 .reszek{
-    background-color: rgba(0, 0, 0, 0.25);
+    background-color: rgba(0, 0, 0, 0.15);
     margin-top: 15px;
     border-radius: 5px;
     padding: 10px;
+}
+
+.piros{
+    color: red;
+}
+
+.container{
+    background-image: url(Hatter.jpg);
 }
